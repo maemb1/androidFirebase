@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720762373881",
+    "project_id": "holafirebase-167b0",
+    "storage_bucket": "holafirebase-167b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720762373881:android:5c680bc3334ba1dc5f8428",
+        "android_client_info": {
+          "package_name": "com.edu.holafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720762373881-hkc9q07rghqqr3dta1injh2m7npmb9ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7D09KQYMzvGEQt4YCqZe9YnC1-o6hKV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720762373881-hkc9q07rghqqr3dta1injh2m7npmb9ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
